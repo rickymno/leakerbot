@@ -4,6 +4,7 @@ const token = "5376015913:AAHzidtlJB2Ar_7mAHwNfOnig0UcO9GmjXE";
 const randomItem = require("random-item");
 const bot = new Telegraf(token);
 
+
 bot.start((message) => {
   return message.reply(
     "🤖 salve, io sono LeakerBot ma se vuoi puoi chiamarmi l'oracolo con il Palle Maximo. Vorresti conoscere le informazioni sui nuovi titoli Pokémon in anteprima? eccomi qua!"
