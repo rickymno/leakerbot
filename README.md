@@ -1,9 +1,9 @@
-# kings-bot
-Is a simple kings of our fate bot
+# leaker-bot
+Is a simple leaker bot
 
 Clone repository
 
-cd kingsbot
+cd leaker-bot
 
 npm install
 
